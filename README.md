@@ -100,4 +100,3 @@ The findings depend on the included sample dataset and the measures implemented 
 
 **Elena**  
 Data Analytics Portfolio
-
