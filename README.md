@@ -27,7 +27,7 @@ The objective is to identify patterns in sales and profit, understand how discou
 
 ### 1. Financial Analysis
 
-![Financial Analysis](FinanceAnalysis.png)
+![Financial Analysis](./FinanseAnalysis.png)
 
 Provides an overview of financial performance, including sales and profitability metrics.
 
